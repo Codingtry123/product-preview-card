@@ -70,6 +70,9 @@ mobilie first design
 
 ### Useful resources
 
+http://lab.maltewassermann.com/viewport-resizer/
+
+
 
 
 **Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
